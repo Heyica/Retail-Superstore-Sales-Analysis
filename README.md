@@ -51,3 +51,5 @@ The dashboard tracks the following key performance indicators:
 - Profit Margin
 
 These KPIs provide a high-level view of overall business performance and help monitor sales growth, profitability, and sales volume.
+
+## Key Insights 💡
