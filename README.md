@@ -34,4 +34,20 @@ The Sample Superstore dataset contains transactional retail sales records, inclu
 ## Business Questions 📌
 This analysis aims to answer the following business questions:
 
-- 
+- How does sales performance change over time, and are there any seasonal sales trends throughout the year ?
+- Which regions contribute the highest sales to the business ?
+- Which product categories generate the highest profits ?
+- How do different customer segments contribute to overall sales performance ?
+- Which subcategories generate the highest sales revenue ?
+- How do key business metrics such as Total Sales, Total Profit, Number of Sales, and Profit Margin perform ?
+- How do sales and profit performance vary across years, categories, regions, customer segments, and delivery modes ?
+
+## Key Performance Indicators 📊
+The dashboard tracks the following key performance indicators:
+
+Total Sales
+Total Profit
+Quantity Sold
+Profit Margin
+
+These KPIs provide a high-level view of overall business performance and help monitor sales growth, profitability, and sales volume.
