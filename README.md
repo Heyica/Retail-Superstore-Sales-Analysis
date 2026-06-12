@@ -54,8 +54,6 @@ These KPIs provide a high-level view of overall business performance and help mo
 
 ## Key Insights 💡
 
-- November recorded the highest sales ($352K), while February had the lowest sales ($60K). Q4 showed the strongest sales performance throughout the year.
-- The West region generated the highest sales contribution ($725K), outperforming all other regions.
-- Technology was the most profitable category, contributing approximately $145K in profit.
-- The Consumer segment accounted for the largest share of customers (50%).
-- Phones and Chairs were the top-performing sub-categories, generating more than $300K in sales each.
+  
+## Recommendations 🔥
+
