@@ -1,9 +1,10 @@
-# Retail-Superstore-Sales-Analysis
-This project analyzes retail sales data to uncover business insights, monitor key performance indicators (KPIs), and support data-driven decision making using Excel dashboards.
+# Retail Superstore Sales Analysis
 
 ## 🔍 Project Overview
+This project analyzes retail sales data to uncover business insights, monitor key performance indicators (KPIs), and support data-driven decision making using an interactive Excel dashboard.
 
-## About Data
+## 📂 About Data
+The Sample Superstore dataset contains transactional retail sales records, including customer information, product details, shipping information, and financial metrics used to evaluate business performance.
 
 | Column         | Description                              | Data Type |
 | -------------- |----------------------------------------- |-----------|
@@ -29,3 +30,8 @@ This project analyzes retail sales data to uncover business insights, monitor ke
 | Profit         | Profit/Loss incurred                     | double    |
 | Year           | Year extracted from Order Date           | int       |
 | Month          | Month extracted from Order Date          | text      |
+
+## Business Questions 📌
+This analysis aims to answer the following business questions:
+
+- 
