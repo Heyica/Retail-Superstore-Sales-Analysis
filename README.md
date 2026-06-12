@@ -45,9 +45,9 @@ This analysis aims to answer the following business questions:
 ## Key Performance Indicators 📊
 The dashboard tracks the following key performance indicators:
 
-Total Sales
-Total Profit
-Quantity Sold
-Profit Margin
+- Total Sales
+- Total Profit
+- Quantity Sold
+- Profit Margin
 
 These KPIs provide a high-level view of overall business performance and help monitor sales growth, profitability, and sales volume.
