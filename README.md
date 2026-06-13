@@ -53,11 +53,11 @@ The dashboard tracks the following key performance indicators:
 These KPIs provide a high-level view of overall business performance and help monitor sales growth, profitability, and sales volume.
 
 ## Key Insights 💡
-- Sales during the 2014–2017 period exhibited a seasonal pattern, with a significant increase towards the end of the year and peaking in November.
+- Sales during the 2014–2017 period exhibited seasonality, with a significant increase towards the end of the year and peaking in November.
 - The West region contributed the largest sales compared to other regions, indicating stronger market potential.
-- The Technology category generated the highest profits, while Furniture experienced relatively lower profitability.
-- The Phones and Chairs subcategories were the largest sales contributors and the primary drivers of sales performance.
-- The Consumer segment contributed the highest sales compared to Corporate and Home Office, making it the company's primary market.
+- The Technology category generated the highest profit of $145K, while Furniture demonstrated relatively lower profitability.
+- The Phones and Chairs subcategories were the largest sales contributors and the primary drivers of the company's sales performance.
+- The Consumer segment was the largest customer segment, accounting for approximately 50% of total customers, making it the company's primary market compared to the Corporate and Home Office segments.
   
 ## Recommendations 🔥
 
