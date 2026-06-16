@@ -60,4 +60,15 @@ These KPIs provide a high-level view of overall business performance and help mo
 - The Consumer segment was the largest customer segment, accounting for approximately 50% of total customers, making it the company's primary market compared to the Corporate and Home Office segments.
   
 ## Recommendations 🔥
+- Optimize inventory and marketing activities before the fourth quarter to maximize seasonal demand.
+- Strengthen sales strategies in high-performing regions and increase market penetration in low-performing ones.
+- Focus on expanding profitable categories, particularly Technology, while improving Furniture profitability.
+- Prioritize Mobile Phones and Chairs through effective inventory planning and promotions.
+- Enhance customer retention programs for the Consumer segment and expand opportunities in the Corporate and Home Office markets.
 
+## Tools & Technologies 🛠️
+**Microsoft Excel**
+  - Power Query untuk pembersihan dan transformasi data
+  - Pivot Table untuk analisis dan agregasi data
+  - Pivot Chart untuk visualisasi data
+  - Slicer untuk filter interaktif dashboard
