@@ -74,7 +74,7 @@ These KPIs provide a high-level view of overall business performance and help mo
   - Slicer untuk filter interaktif dashboard
 
 ## Conclusion
-The Retail Superstore business generated total sales of $2.30 million and total profit of $286.4 thousand, with a profit margin of 12.47%. Sales performance exhibited a clear seasonal pattern, with the strongest performance in the fourth quarter, particularly in November. The West region was the largest sales contributor, while the Technology category generated the highest profit. The Consumer segment dominated the customer base, while the Phones and Chairs subcategories were the main sales drivers. These findings indicate growth opportunities through strengthening regional strategies, improving customer retention, and optimizing investments in high-performing categories and products.
+The Retail Superstore generated $2.30M in sales and $286.4K in profit, achieving a profit margin of 12.47%. Sales exhibited clear seasonality, with stronger performance in Q4. The West region, Technology category, Phones and Chairs subcategories, and Consumer segment emerged as the primary drivers of business performance.
 
 ## Dashboard Preview
 ![Dashboard](Dashboard/Dasboard.png)
