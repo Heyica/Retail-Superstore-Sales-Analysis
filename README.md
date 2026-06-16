@@ -68,10 +68,10 @@ These KPIs provide a high-level view of overall business performance and help mo
 
 ## Tools & Technologies 🛠️
 **Microsoft Excel**
-  - Power Query untuk pembersihan dan transformasi data
-  - Pivot Table untuk analisis dan agregasi data
-  - Pivot Chart untuk visualisasi data
-  - Slicer untuk filter interaktif dashboard
+  - Power Query for data cleaning and transformation
+  - Pivot Tables for data aggregation and analysis
+  - Pivot Charts for data visualization
+  - Slicers for interactive dashboard filtering
 
 ## Conclusion
 The Retail Superstore generated $2.30M in sales and $286.4K in profit, achieving a profit margin of 12.47%. Sales exhibited clear seasonality, with stronger performance in Q4. The West region, Technology category, Phones and Chairs subcategories, and Consumer segment emerged as the primary drivers of business performance.
