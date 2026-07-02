@@ -66,7 +66,7 @@ These KPIs provide a high-level view of overall business performance and help mo
 - Prioritize Mobile Phones and Chairs through effective inventory planning and promotions.
 - Enhance customer retention programs for the Consumer segment and expand opportunities in the Corporate and Home Office markets.
 
-## Tools & Technologies 🛠️
+## Tools 🛠️
 **Microsoft Excel**
   - Power Query for data cleaning and transformation
   - Pivot Tables for data aggregation and analysis
